@@ -24,7 +24,7 @@
     width: 252px;
   }
     .outofstock {
-  	background-color: red;
+  	background-color: yellow;
   	pointer-events: none;
    	cursor: default;
   }
