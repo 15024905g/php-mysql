@@ -86,7 +86,7 @@
   <tr> -->
   <div class="hero-unit">
   <div>
-  <h2 class="text-center"><em><?php echo $site_title; ?></em> Test update master</h2>
+  <h2 class="text-center"><em><?php echo $site_title; ?></em> Test update master code</h2>
   </div>
   <br/>
   
