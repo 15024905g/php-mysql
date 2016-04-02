@@ -86,7 +86,7 @@
   <tr> -->
   <div class="hero-unit">
   <div>
-  <h2 class="text-center"><em><?php echo $site_title; ?></em> up master code</h2>
+  <h2 class="text-center"><em><?php echo $site_title; ?></em> change master branch</h2>
   </div>
   <br/>
   
